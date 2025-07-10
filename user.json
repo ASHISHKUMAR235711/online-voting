@@ -1,0 +1,10 @@
+{
+  "ashish": {
+    "password": "hashed_password",
+    "voted": false
+  },
+  "admin": {
+    "password": "admin_password_hash",
+    "voted": false
+  }
+}
